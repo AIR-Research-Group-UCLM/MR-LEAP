@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SharpConfig</id>
+    <version>3.2.9.1</version>
+    <authors>SharpConfig</authors>
+    <owners>SharpConfig</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>SharpConfigLogo.png</icon>
+    <projectUrl>https://github.com/cemdervis/SharpConfig</projectUrl>
+    <description>An easy to use CFG/INI configuration library for .NET.</description>
+    <releaseNotes>Please see the project URL for the latest release notes.</releaseNotes>
+    <copyright>Copyright 2013-2020 Cemalettin Dervis</copyright>
+    <tags>sharpconfig config c# csharp cfg ini configuration library</tags>
+    <repository type="git" url="https://github.com/cemdervis/SharpConfig.git" />
+    <dependencies>
+      <group targetFramework=".NETFramework2.0" />
+      <group targetFramework=".NETFramework3.5" />
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+</package>

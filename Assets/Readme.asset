@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: c7bd275aee9b9814c8d8761381acf4b9, type: 3}
+  title: 'MR-LEAP '
+  sections:
+  - heading: MR-LEAP
+    text: 'Coding skills are becoming more and more important in today’s world, 
+	especially within the context of the fourth industrial revolution. 
+	They also help practice other 21 century skills such as computational thinking, 
+	problem solving and teamwork. Unfortunately, learning how to program is tough 
+	and can be also frustrating for beginner students.'
+    linkText:
+    url:
+  - heading: 
+    text: 'MR-LEAP is aserious game based on augmented reality and visual metaphors 
+	that facilitates learning programming to students who are facing this challenge 
+	for the ﬁrst time.'
+    linkText: Repo on GitHub
+    url: https://github.com/AIR-Research-Group-UCLM/MR-LEAP/
+  loadedLayout: 1

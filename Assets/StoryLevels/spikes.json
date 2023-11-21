@@ -1,0 +1,27 @@
+{
+  "levelName": "Test Level Spikes",
+  "levelSize": [ 3, 2, 4 ],
+  "playerPos": [ 1, 1, 0 ],
+  "playerOrientation": 0,
+  "goal": [ 1, 1, 3 ],
+  "availableInstructions": {
+    "condition": 0,
+    "loop": 0,
+    "turnRight": 0,
+    "turnLeft": 0,
+    "jump": 1,
+    "move": 1,
+    "action": 0
+  },
+  "mapAndItems": [
+  1,3,1,
+  1,3,1,
+	1,3,1,
+	1,3,1,
+	
+	0,0,0,
+	0,29,0,
+	0,3,0,
+	0,0,0
+  ]
+}
